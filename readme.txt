@@ -46,7 +46,7 @@ PATHTOAPP=$(realpath -q $APPNAME)
 
 cd $PATHTOAPP && cd ..
 
-PRIVATEKEY=""
+PRIVATEKEY= ""
 
 RECORD=""
 
